@@ -4,7 +4,7 @@
 <img align="right" width="400" src="celebration-labour-day-with-3d-cartoon-portrait-working-woman.jpg" alt="QA Engineer Working">
 
 
-- 🔭 🌱 currently learning and working on **Automation, performance,security and AI-powered testing to become a smarter Full Stack QA!**
+- 🔭 🌱 currently learning and working on **Automation, performance,security and AI/ML-powered testing to become a smarter Full Stack QA!**
 
 - 📫 How to reach me **oshanilakchani@gmail.com**
 

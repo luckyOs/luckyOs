@@ -31,12 +31,4 @@ I help testers fall in love with learning and evolving — 👩🏻‍💻✌️
 ##
 -  🔹 Remember WHY you started 👩🏻‍💻✨
 ##
-**Quote Collection:** 👩🏻‍💻✨
 
-“When you change the way you look at things, the things you look at change.”
-— Dr. Wayne Dyer
-
-Your passion is for you. Your purpose is for others.
-When you use your passion in the service of others — it becomes purpose.
-
-##

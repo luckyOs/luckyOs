@@ -1,6 +1,7 @@
 ![logo](1758979318814.jpeg) 
 <h1 align="center">Hi 👋, I'm oshani Lakchani</h1>
 <h3 align="center">A Passionate Lead Software QA Engineer from Sri Lanka</h3>
+<h3 align="center">Don’t just test for defects, test for delight. ✨ </h3>
 
 ##
 I help testers fall in love with learning and evolving — 👩🏻‍💻✌️✨and  inspire clients to appreciate what brilliant testing can achieve.🎯 Because quality isn’t just a role — it’s a responsibility, a mindset, and a movement. 💻✨❤️💙

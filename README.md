@@ -11,7 +11,11 @@ I help testers fall in love with learning and evolving — 👩🏻‍💻✌️
 
 - 🔭 🌱 currently learning and working on **Automation, performance,security and AI/ML-powered testing to become a smarter Full Stack QA!**
 
+
+- 💻 Check out my articles on Medium: [medium.com/@oshanilakchani](https://medium.com/@oshanilakchani) 
 - 📫 How to reach me **oshanilakchani@gmail.com**
+
+##
 
 -  🎯Turning complex software into smooth, quality user experiences 👩🏻‍💻✨
 -  🎯Testing beyond the obvious — because Quality Matters 
